@@ -1,6 +1,5 @@
 Name : sailesh kolla
-Net ID: sxk145331
-Section: 6322.501
+
 
 
 Read Me
